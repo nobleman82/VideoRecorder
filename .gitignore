@@ -1,0 +1,8 @@
+﻿.vs/
+.vscode/
+env/
+venv/
+*.mp4
+*.avi
+*.wav
+*.json
