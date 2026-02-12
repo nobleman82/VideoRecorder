@@ -39,7 +39,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AudioRecorder.bat" />
-    <Content Include="README.md" />
     <Content Include="requirements.txt" />
     <Content Include="VideoRecorder.bat" />
   </ItemGroup>
